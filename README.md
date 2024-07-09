@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Music Desktop Demo](../music-player-master/assets/readme-image/desktop-view.png "Desktop Demo")
+![Music Desktop Demo](./assets/readme-image/desktop-view.png "Desktop Demo")
 
 ### Prerequisites
 
