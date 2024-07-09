@@ -3,7 +3,7 @@
 
   This is a fully responsive Music website, <br />Responsive for all devices, build using HTML, CSS, and Vanilla JavaScript.
 
-  <a href="https://music-player-website.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://music-burnaboy.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -38,5 +38,4 @@ git clone https://github.com/odutolaisreal/Music.git
 ### Contact
 
 If you want to contact with me you can reach me at [Whatsapp](https://wa.me/07060529706).
-# Music
-# Music
+
